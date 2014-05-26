@@ -1,5 +1,7 @@
 Pen on a hand
 -------------
+[![BuildStatus](https://travis-ci.org/dmitrinesterenko/pen_on_a_hand.svg?branch=master)](https://travis-ci.org/dmitrinesterenko/pen_on_a_hand)
+
 Pen on a hand style notes done with Camping.
 
 ```sh
