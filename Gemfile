@@ -6,6 +6,8 @@ gem 'activerecord', '~>3.0.20'
 gem 'sqlite3'
 # Go Camping
 gem 'camping'
+# Rake for Travis
+gem 'rake'
 group :development do
 	# This is a redundant include but making sure that better_errors has the support it needs
 	gem 'byebug'
